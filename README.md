@@ -2,6 +2,8 @@
 
 ### for the paper _Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study_.
 
+[![DOI](https://zenodo.org/badge/522705446.svg)](https://zenodo.org/badge/latestdoi/522705446)
+
 ## About
 
 This paper is an extended replication of the paper [_Code cloning in smart contracts: a case study on verified contracts from the Ethereum blockchain platform_](https://link.springer.com/article/10.1007/s10664-020-09852-5) by M. Kondo, G. Oliva, Z.M. Jiang, A. Hassan, and O. Mizuno. For the replication package of the original study, please, visit [https://github.com/SAILResearch/suppmaterial-18-masanari-smart_contract_cloning](https://github.com/SAILResearch/suppmaterial-18-masanari-smart_contract_cloning). To obtain the corpus of 33,034 smart contracts, please, contact the authors of the original study.
