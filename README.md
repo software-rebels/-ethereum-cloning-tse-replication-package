@@ -2,7 +2,7 @@
 
 ### for the paper _Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study_.
 
-[![DOI](https://zenodo.org/badge/522705446.svg)](https://zenodo.org/badge/latestdoi/522705446)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6975641.svg)](https://doi.org/10.5281/zenodo.6975641)
 
 ## About
 
